@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/certifications/static/css/main.c8b92662.chunk.css",
+    "main.js": "/certifications/static/js/main.0d725ddf.chunk.js",
+    "main.js.map": "/certifications/static/js/main.0d725ddf.chunk.js.map",
+    "runtime-main.js": "/certifications/static/js/runtime-main.6e5d1945.js",
+    "runtime-main.js.map": "/certifications/static/js/runtime-main.6e5d1945.js.map",
+    "static/js/2.021e45c6.chunk.js": "/certifications/static/js/2.021e45c6.chunk.js",
+    "static/js/2.021e45c6.chunk.js.map": "/certifications/static/js/2.021e45c6.chunk.js.map",
+    "static/js/3.e2d33fd8.chunk.js": "/certifications/static/js/3.e2d33fd8.chunk.js",
+    "static/js/3.e2d33fd8.chunk.js.map": "/certifications/static/js/3.e2d33fd8.chunk.js.map",
+    "index.html": "/certifications/index.html",
+    "static/css/main.c8b92662.chunk.css.map": "/certifications/static/css/main.c8b92662.chunk.css.map",
+    "static/js/2.021e45c6.chunk.js.LICENSE.txt": "/certifications/static/js/2.021e45c6.chunk.js.LICENSE.txt",
+    "static/media/APIs and Microservices.jpg": "/certifications/static/media/APIs and Microservices.d6caae52.jpg",
+    "static/media/DataVisualizationCer.jpg": "/certifications/static/media/DataVisualizationCer.37e796ac.jpg",
+    "static/media/FrontEndLibrariesCer.jpg": "/certifications/static/media/FrontEndLibrariesCer.69dd92e7.jpg",
+    "static/media/Git.jpg": "/certifications/static/media/Git.afeaf7b9.jpg",
+    "static/media/JavaScriptCer.jpg": "/certifications/static/media/JavaScriptCer.beb99bdc.jpg",
+    "static/media/QualityAssuranceCer.jpg": "/certifications/static/media/QualityAssuranceCer.2c8b39ed.jpg",
+    "static/media/React.jpg": "/certifications/static/media/React.aa824cc6.jpg",
+    "static/media/ResponsiveWebDesign.jpg": "/certifications/static/media/ResponsiveWebDesign.ced1c790.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e5d1945.js",
+    "static/js/2.021e45c6.chunk.js",
+    "static/css/main.c8b92662.chunk.css",
+    "static/js/main.0d725ddf.chunk.js"
+  ]
+}
