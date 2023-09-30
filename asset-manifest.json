@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/certifications/static/css/main.4ad216ee.chunk.css",
-    "main.js": "/certifications/static/js/main.0d725ddf.chunk.js",
-    "main.js.map": "/certifications/static/js/main.0d725ddf.chunk.js.map",
-    "runtime-main.js": "/certifications/static/js/runtime-main.6e5d1945.js",
-    "runtime-main.js.map": "/certifications/static/js/runtime-main.6e5d1945.js.map",
+    "main.css": "/certifications/static/css/main.8885cb82.chunk.css",
+    "main.js": "/certifications/static/js/main.2e3d236f.chunk.js",
+    "main.js.map": "/certifications/static/js/main.2e3d236f.chunk.js.map",
+    "runtime-main.js": "/certifications/static/js/runtime-main.f0fd8f0c.js",
+    "runtime-main.js.map": "/certifications/static/js/runtime-main.f0fd8f0c.js.map",
     "static/js/2.021e45c6.chunk.js": "/certifications/static/js/2.021e45c6.chunk.js",
     "static/js/2.021e45c6.chunk.js.map": "/certifications/static/js/2.021e45c6.chunk.js.map",
-    "static/js/3.e2d33fd8.chunk.js": "/certifications/static/js/3.e2d33fd8.chunk.js",
-    "static/js/3.e2d33fd8.chunk.js.map": "/certifications/static/js/3.e2d33fd8.chunk.js.map",
+    "static/js/3.7a4edc69.chunk.js": "/certifications/static/js/3.7a4edc69.chunk.js",
+    "static/js/3.7a4edc69.chunk.js.map": "/certifications/static/js/3.7a4edc69.chunk.js.map",
     "index.html": "/certifications/index.html",
-    "static/css/main.4ad216ee.chunk.css.map": "/certifications/static/css/main.4ad216ee.chunk.css.map",
+    "static/css/main.8885cb82.chunk.css.map": "/certifications/static/css/main.8885cb82.chunk.css.map",
     "static/js/2.021e45c6.chunk.js.LICENSE.txt": "/certifications/static/js/2.021e45c6.chunk.js.LICENSE.txt",
     "static/media/APIs and Microservices.jpg": "/certifications/static/media/APIs and Microservices.d6caae52.jpg",
+    "static/media/AdvancedBehaviouralSkills.jpg": "/certifications/static/media/AdvancedBehaviouralSkills.e5207fb1.jpg",
+    "static/media/BackendEngineeringNodeJsExpress.jpg": "/certifications/static/media/BackendEngineeringNodeJsExpress.6e4aabdc.jpg",
+    "static/media/BasicBehaviouralSkills.jpg": "/certifications/static/media/BasicBehaviouralSkills.afb1b93f.jpg",
     "static/media/DataVisualizationCer.jpg": "/certifications/static/media/DataVisualizationCer.37e796ac.jpg",
     "static/media/FrontEndLibrariesCer.jpg": "/certifications/static/media/FrontEndLibrariesCer.69dd92e7.jpg",
+    "static/media/Frontend.jpg": "/certifications/static/media/Frontend.6d9c86c8.jpg",
+    "static/media/FullstackEngineeringWithReact&NodeJs.jpg": "/certifications/static/media/FullstackEngineeringWithReact&NodeJs.18e11ed5.jpg",
+    "static/media/FullstackFundamentals.jpg": "/certifications/static/media/FullstackFundamentals.17d7bded.jpg",
     "static/media/Git.jpg": "/certifications/static/media/Git.afeaf7b9.jpg",
     "static/media/JavaScriptCer.jpg": "/certifications/static/media/JavaScriptCer.beb99bdc.jpg",
     "static/media/QualityAssuranceCer.jpg": "/certifications/static/media/QualityAssuranceCer.2c8b39ed.jpg",
@@ -22,9 +28,9 @@
     "static/media/ResponsiveWebDesign.jpg": "/certifications/static/media/ResponsiveWebDesign.ced1c790.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e5d1945.js",
+    "static/js/runtime-main.f0fd8f0c.js",
     "static/js/2.021e45c6.chunk.js",
-    "static/css/main.4ad216ee.chunk.css",
-    "static/js/main.0d725ddf.chunk.js"
+    "static/css/main.8885cb82.chunk.css",
+    "static/js/main.2e3d236f.chunk.js"
   ]
 }
