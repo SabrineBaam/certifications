@@ -7,9 +7,9 @@ class App extends Component{
     render(){
         return(
             <Carousel>
-                <Item><img src={require('./images/AWSSAACER.jpg')} alt=' ' /></Item>
-                <Item><img src={require('./images/AWSCloudPractitioner.jpg')} alt=' ' /></Item>
-                <Item><img src={require('./images/AWSSolutionArchitectAssociate.jpg')} alt=' ' /></Item>
+                <Item><img src={require('./images/AWSSAACER.jpg').default} alt=' ' /></Item>
+                <Item><img src={require('./images/AWSCloudPractitioner.jpg').default} alt=' ' /></Item>
+                <Item><img src={require('./images/AWSSolutionArchitectAssociate.jpg').default} alt=' ' /></Item>
                 <Item><img src={require('./images/FullstackEngineeringWithReact&NodeJs.jpg').default} alt=' ' /></Item>
                 <Item><img src={require('./images/FullstackFundamentals.jpg').default} alt=' ' /></Item>
                 <Item><img src={require('./images/BackendEngineeringNodeJsExpress.jpg').default} alt=' ' /></Item>
