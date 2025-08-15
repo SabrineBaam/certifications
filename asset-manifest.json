@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/certifications/static/css/main.8885cb82.chunk.css",
-    "main.js": "/certifications/static/js/main.2e3d236f.chunk.js",
-    "main.js.map": "/certifications/static/js/main.2e3d236f.chunk.js.map",
-    "runtime-main.js": "/certifications/static/js/runtime-main.f0fd8f0c.js",
-    "runtime-main.js.map": "/certifications/static/js/runtime-main.f0fd8f0c.js.map",
+    "main.js": "/certifications/static/js/main.277c0925.chunk.js",
+    "main.js.map": "/certifications/static/js/main.277c0925.chunk.js.map",
+    "runtime-main.js": "/certifications/static/js/runtime-main.8d651c1c.js",
+    "runtime-main.js.map": "/certifications/static/js/runtime-main.8d651c1c.js.map",
     "static/js/2.021e45c6.chunk.js": "/certifications/static/js/2.021e45c6.chunk.js",
     "static/js/2.021e45c6.chunk.js.map": "/certifications/static/js/2.021e45c6.chunk.js.map",
-    "static/js/3.7a4edc69.chunk.js": "/certifications/static/js/3.7a4edc69.chunk.js",
-    "static/js/3.7a4edc69.chunk.js.map": "/certifications/static/js/3.7a4edc69.chunk.js.map",
+    "static/js/3.1a811a02.chunk.js": "/certifications/static/js/3.1a811a02.chunk.js",
+    "static/js/3.1a811a02.chunk.js.map": "/certifications/static/js/3.1a811a02.chunk.js.map",
     "index.html": "/certifications/index.html",
     "static/css/main.8885cb82.chunk.css.map": "/certifications/static/css/main.8885cb82.chunk.css.map",
     "static/js/2.021e45c6.chunk.js.LICENSE.txt": "/certifications/static/js/2.021e45c6.chunk.js.LICENSE.txt",
     "static/media/APIs and Microservices.jpg": "/certifications/static/media/APIs and Microservices.d6caae52.jpg",
+    "static/media/AWSCloudPractitioner.jpg": "/certifications/static/media/AWSCloudPractitioner.51c6338c.jpg",
+    "static/media/AWSSAACER.jpg": "/certifications/static/media/AWSSAACER.b365a4fb.jpg",
+    "static/media/AWSSolutionArchitectAssociate.jpg": "/certifications/static/media/AWSSolutionArchitectAssociate.9160306e.jpg",
     "static/media/AdvancedBehaviouralSkills.jpg": "/certifications/static/media/AdvancedBehaviouralSkills.e5207fb1.jpg",
     "static/media/BackendEngineeringNodeJsExpress.jpg": "/certifications/static/media/BackendEngineeringNodeJsExpress.6e4aabdc.jpg",
     "static/media/BasicBehaviouralSkills.jpg": "/certifications/static/media/BasicBehaviouralSkills.afb1b93f.jpg",
@@ -28,9 +31,9 @@
     "static/media/ResponsiveWebDesign.jpg": "/certifications/static/media/ResponsiveWebDesign.ced1c790.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0fd8f0c.js",
+    "static/js/runtime-main.8d651c1c.js",
     "static/js/2.021e45c6.chunk.js",
     "static/css/main.8885cb82.chunk.css",
-    "static/js/main.2e3d236f.chunk.js"
+    "static/js/main.277c0925.chunk.js"
   ]
 }
